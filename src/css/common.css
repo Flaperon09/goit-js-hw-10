@@ -1,0 +1,42 @@
+.js-hidden {
+    display: none;
+}
+
+.js-data {
+    list-style-type: none;
+    display: flex;
+    margin: 10px;
+    padding: 0px;
+}
+
+.js-data li {
+    padding: 10px;
+}
+
+.breed-select {
+    margin: 10 20 0 20;
+}
+
+.loader {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial;
+}
+
+.error {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: red;
+    font-family: Arial;
+}
+
+.js-temperament {
+    font-weight: 700;
+    font-family: Arial;
+}
+
+.js-text, .js-h1{
+    font-family: Arial;
+}
