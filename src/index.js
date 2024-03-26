@@ -1,9 +1,6 @@
 import { fetchBreeds } from './js/cat-api';
 import { fetchCatByBreed } from './js/cat-api';
 
-// import axios from "axios";
-// axios.defaults.headers.common["x-api-key"] = "live_xLh0xd4Q45caNiYkcZ60mZOWOfvOy7CFgjitW2LhWxbyMwFC9iIxdrvdfjIvRwNt";
-
 const listCats = document.querySelector('.breed-select');
 const infoOfCats = document.querySelector('.cat-info');
 const loader = document.querySelector('.loader');
